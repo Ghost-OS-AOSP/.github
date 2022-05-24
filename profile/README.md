@@ -1,6 +1,6 @@
 # ghostOS
 
-![banner](https://raw.githubusercontent.com/protonplus-org/.github/master/profile/banner.png)
+![banner](https://i.imgur.com/WAnCTr9.png)
 
 Welcome to GhostOS 
 
