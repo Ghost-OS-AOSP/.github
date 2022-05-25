@@ -1,6 +1,6 @@
 # ghostOS
 
-![banner](https://i.imgur.com/WAnCTr9.png)
+![banner](https://i.imgur.com/jGeuxwb.png)
 
 Welcome to GhostOS 
 
