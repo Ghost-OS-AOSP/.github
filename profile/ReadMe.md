@@ -2,7 +2,7 @@
 
 ![banner](https://i.imgur.com/jGeuxwb.png)
 
-Welcome to GhostOS 
+Welcome to GhostOS!
 
 GhostOS is a fork of Proton+ that aims to bring you a ROM that is fast secure and has amazing gaming performance!
 
