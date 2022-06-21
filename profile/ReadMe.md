@@ -19,7 +19,7 @@ To get started, you're gonna have to check the following repositories:
 
 ### Apply as a maintainer
 
-The maintainer ship program is currently on hold...
+If you want to apply as a maintainer please fill this [form](https://forms.gle/gtV3kKWVT1SzLEjM7)
 
 ### Credits
 
@@ -30,5 +30,6 @@ The maintainer ship program is currently on hold...
  - [PixelExperience](https://github.com/pixelexperience)
  - [xDroid](https://github.com/xdroid-oss)
  - [ArrowOS](https://github.com/arrowos)
+ - [TeamFiles](https://t.me/modulesrepo)
 
 ### Stay Spooky!
