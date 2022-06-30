@@ -21,6 +21,12 @@ To get started, you're gonna have to check the following repositories:
 
 If you want to apply as a maintainer please fill this [form](https://forms.gle/gtV3kKWVT1SzLEjM7)
 
+### Help the Dev
+
+Buy me a coffee with the following links
+
+https://www.patreon.com/SpectreDev
+
 ### Credits
 
  - [Proton+](https://github.com/protonplus-org/)
