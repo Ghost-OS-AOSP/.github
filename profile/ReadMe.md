@@ -4,7 +4,7 @@
 
 Welcome to GhostOS!
 
-GhostOS is a fork of Proton+ that aims to bring you a rom that is fast and secure
+GhostOS is a fork of Pixel Experience that aims to bring you a rom that is fast and secure
 
 ### Get Started
 
@@ -29,12 +29,9 @@ https://www.patreon.com/SpectreDev
 
 ### Credits
 
- - [Proton+](https://github.com/protonplus-org/)
- - [ProtonAOSP](https://github.com/protonaosp) 
- - [LineageOS](https://github.com/lineageos) 
+ - [ProtonAOSP](https://github.com/protonaosp)  
  - [CorvusOS](https://github.com/Corvus-R)
  - [PixelExperience](https://github.com/pixelexperience)
  - [xDroid](https://github.com/xdroid-oss)
- - [ArrowOS](https://github.com/arrowos)
 
 ### Stay Spooky!
