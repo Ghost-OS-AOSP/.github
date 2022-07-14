@@ -4,7 +4,7 @@
 
 Welcome to GhostOS!
 
-GhostOS is a fork of Pixel Experience that aims to bring you a rom that is fast and secure
+GhostOS is a fork of Pixel Experience that aims to bring you a ROM that is fast and secure
 
 ### Get Started
 
